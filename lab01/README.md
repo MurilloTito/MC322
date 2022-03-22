@@ -10,7 +10,7 @@ Estrutura de pastas:
 
 ## Notebook 1 sobre Empréstimos
 
-[Notebook 1] ()
+[Notebook 1] (https://github.com/MurilloTito/MC322/blob/main/lab01/notebook/emprestimo01.ipynb)
 
 ## Notebook 2 sobre Empréstimos e TAD (opcional)
 
