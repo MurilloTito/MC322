@@ -10,4 +10,4 @@ Estrutura de pastas:
 
 ## Notebook do lab02
 
-> [Notebook] (https://github.com/MurilloTito/MC322/blob/main/lab02/notebook/lab02-java-estruturas.ipynb)
+> [Notebook] (https://github.com/MurilloTito/MC322/blob/main/lab02/notebook/lab02-java-estruturas-ra248221.ipynb)
