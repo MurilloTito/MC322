@@ -1,4 +1,4 @@
-# Lab02 - Estruturas em Java
+# Lab02 - Do C para o Java
 
 Estrutura de pastas:
 
@@ -8,6 +8,6 @@ Estrutura de pastas:
 └── notebook   <- arquivos do notebook
 ~~~
 
-## Notebook do lab02
+## Notebook sobre Java Estruturas
 
 > [Notebook] (https://github.com/MurilloTito/MC322/blob/main/lab02/notebook/lab02-java-estruturas-ra248221.ipynb)
